@@ -12,3 +12,7 @@
 #winw #blockWrap #green30_107188 #heroSection .swiper-pagination-bullet.swiper-pagination-bullet-active {
   background-color: #fef46f !important;
 }
+#winw #blockWrap #green30_107188 #heroSection .swiper-button-prev:after,
+#winw #blockWrap #green30_107188 #heroSection .swiper-button-next:after {
+  color: #fef46f !important;
+}
