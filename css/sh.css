@@ -1,3 +1,9 @@
+#winw header #header150103 {
+  padding: 10px 0;
+}
+#winw header #header150103 .header-wrap .search-box {
+  margin-top: 30px;
+}
 #winw .m_visual {
   height: 0 !important;
   opacity: 0 !important;
