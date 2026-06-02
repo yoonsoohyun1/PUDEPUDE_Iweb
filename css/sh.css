@@ -6,3 +6,9 @@
 #winw #blockWrap #green30_107188 {
   max-width: 1920px;
 }
+#winw #blockWrap #green30_107188 #heroSection .swiper-slide img {
+  width: 100%;
+}
+#winw #blockWrap #green30_107188 #heroSection .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: #fef46f !important;
+}
