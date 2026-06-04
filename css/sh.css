@@ -1,26 +1,30 @@
-#winw header #header150103 {
+#winw header #header150103, body header #header150103 {
   padding: 10px 0;
 }
-#winw header #header150103 .header-wrap .search-box {
+#winw header #header150103 .header-wrap .search-box, body header #header150103 .header-wrap .search-box {
   margin-top: 30px;
 }
-#winw .m_visual {
+#winw .m_visual, body .m_visual {
   height: 0 !important;
   opacity: 0 !important;
   visibility: hidden !important;
 }
-#winw #blockWrap #green30_107188 {
+#winw #blockWrap #green30_107188, body #blockWrap #green30_107188 {
   max-width: 1920px;
 }
-#winw #blockWrap #green30_107188 #heroSection .swiper-slide img {
+#winw #blockWrap #green30_107188 #heroSection .swiper-slide img, body #blockWrap #green30_107188 #heroSection .swiper-slide img {
   width: 100%;
 }
-#winw #blockWrap #green30_107188 #heroSection .swiper-pagination-bullet.swiper-pagination-bullet-active {
+#winw #blockWrap #green30_107188 #heroSection .swiper-pagination-bullet.swiper-pagination-bullet-active, body #blockWrap #green30_107188 #heroSection .swiper-pagination-bullet.swiper-pagination-bullet-active {
   background-color: #fef46f !important;
 }
 #winw #blockWrap #green30_107188 #heroSection .swiper-button-prev:after,
-#winw #blockWrap #green30_107188 #heroSection .swiper-button-next:after {
+#winw #blockWrap #green30_107188 #heroSection .swiper-button-next:after, body #blockWrap #green30_107188 #heroSection .swiper-button-prev:after,
+body #blockWrap #green30_107188 #heroSection .swiper-button-next:after {
   color: #fef46f !important;
+}
+#winw #blockWrap #green30_107003 .hover-effects01:hover, body #blockWrap #green30_107003 .hover-effects01:hover {
+  transform: scale(1.1);
 }
 
 [id^=divpop].popBox table {
