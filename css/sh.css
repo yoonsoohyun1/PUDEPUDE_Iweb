@@ -22,3 +22,7 @@
 #winw #blockWrap #green30_107188 #heroSection .swiper-button-next:after {
   color: #fef46f !important;
 }
+
+[id^=divpop].popBox table {
+  height: auto !important;
+}
